@@ -14,6 +14,6 @@ public class GituploadApplication {
 @GetMapping("/")
 public String get()
 {
-	return "Hi All  Git uploaded code";
+	return "Hi All Bhanu Reddy's  Git uploaded code";
 }
 }
